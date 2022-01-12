@@ -17,3 +17,19 @@ This project is possible thanks to all these open source languages, libraries, a
 | [Sass](https://sass-lang.com/)                | Style preprocessor                        |                         
 | [Jest](https://jestjs.io/)                    | Unit testing framework                    |
 | [Cypress](https://www.cypress.io/)            | End-to-end testing framework              |
+
+
+
+## Styleguide
+
+Coding conventions are enforced by [ESLint](.eslintrc.js) and [Prettier](.prettierrc).
+
+- No semicolons
+- Single quotes
+- Two space indentation
+- Trailing commas in arrays and objects
+- [Non-default exports](https://humanwhocodes.com/blog/2019/01/stop-using-default-exports-javascript-module/) are preferred for components
+- Module imports are ordered and separated: **built-in** -> **external** -> **internal** -> **css/assets/other**
+- TypeScript: strict mode, with no implicitly any
+- React: functional style with Hooks (no classes)
+- `const` preferred over `let`
