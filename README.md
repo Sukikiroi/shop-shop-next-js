@@ -8,7 +8,7 @@
  </p>
 
 
-<p align="center">A web-based notes app for developers. (Demo only)</p>
+<p align="center">A Flower Store e-Commerce.</p>
 
 ![Screenshot](./assets/shop-shop-next.png)
 
