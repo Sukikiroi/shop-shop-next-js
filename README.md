@@ -1,6 +1,12 @@
 # shop-shop-next-js
 
 
+<p align="center">
+ <img src="https://img.shields.io/badge/License-MIT-blue.svg">
+   <a href="https://app.netlify.com/sites/tnote/deploys"><img src="https://api.netlify.com/api/v1/badges/a0e055de-cab8-4217-80dd-5bd769b7d478/deploy-status"></a>
+   <a href='https://coveralls.io/github/taniarascia/takenote'><img src='https://coveralls.io/repos/github/taniarascia/takenote/badge.svg' alt='Coverage Status' /></a>
+ </p>
+
 ## Technologies
 
 This project is possible thanks to all these open source languages, libraries, and frameworks.
