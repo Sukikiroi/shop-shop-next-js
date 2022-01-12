@@ -10,7 +10,7 @@
 
 <p align="center">A web-based notes app for developers. (Demo only)</p>
 
-![Screenshot](./assets/shop-shop-next .png)
+![Screenshot](./assets/shop-shop-next.png)
 
 
 ## Technologies
