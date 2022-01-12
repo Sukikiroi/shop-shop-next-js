@@ -7,6 +7,12 @@
    <a href='https://coveralls.io/github/taniarascia/takenote'><img src='https://coveralls.io/repos/github/taniarascia/takenote/badge.svg' alt='Coverage Status' /></a>
  </p>
 
+
+<p align="center">A web-based notes app for developers. (Demo only)</p>
+
+![Screenshot](./assets/takenote-light.png)
+
+
 ## Technologies
 
 This project is possible thanks to all these open source languages, libraries, and frameworks.
